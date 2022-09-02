@@ -9,7 +9,7 @@ setup(
     long_description=long_desc,
     long_description_content_type="text/markdown",
     version='5.0.0',
-    url='https://github.com/kingsiddhu/encodec',
+    url='https://github.com/kingsiddhu/encode-C',
     author='Siddharth Katabathula',
     author_email='help.siddhu@gmail.com',
     license='MIT',
