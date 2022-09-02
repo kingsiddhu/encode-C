@@ -1,2 +1,2 @@
-from encodeC.MorseC import MorseC
-from encodeC.encryptC import *
+from encode-C.MorseC import MorseC
+from encode-C.encryptC import *
