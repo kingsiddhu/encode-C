@@ -4,7 +4,7 @@ with open("README.md", encoding="UTF-8") as f:
     long_desc = f.read()
 
 setup(
-    name='encodeC',
+    name='encode-C',
     description='Tons of basic text manipulation',
     long_description=long_desc,
     long_description_content_type="text/markdown",
